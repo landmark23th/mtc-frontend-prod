@@ -1,2 +1,2 @@
-# mtc-frontend-prod
-javascript  for MTC Terraform Course
+# This is a prod javascript repository for frontend developers. 
+The infra was last modified by Terry H.
